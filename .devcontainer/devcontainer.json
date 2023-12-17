@@ -12,7 +12,9 @@
 				"usernamehw.errorlens",
 				"PKief.material-icon-theme",
 				"eamodio.gitlens",
-				"redjue.git-commit-plugin"
+				"redjue.git-commit-plugin",
+				"cweijan.vscode-office",
+				"DavidAnson.vscode-markdownlint"
 			],
 			"settings": {
 				"dotfiles.repository": "https://github.com/Mkamono/dotfiles.git",
